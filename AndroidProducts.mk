@@ -14,7 +14,7 @@
 # limitations under the License.
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_serrano3gxx.mk
+    $(LOCAL_DIR)/rr_serrano3gxx.mk
 
 COMMON_LUNCH_CHOICES := \
-    lineage_serrano3gxx-userdebug
+    rr_serrano3gxx-userdebug
